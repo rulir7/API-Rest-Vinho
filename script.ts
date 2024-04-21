@@ -117,7 +117,7 @@ let user4: UserDTO = {
     address: 'Estrada das Videiras S/N, km 88',
     birthday: new Date(1981, 0, 30), //ano, mes, dia e janeiro = 0  
     gender: 'Masculino',
-    telephone: '5547992421400',
+    telephone: '55479999999',
     img: ''
 }
 
